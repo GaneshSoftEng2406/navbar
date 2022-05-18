@@ -1,0 +1,48 @@
+.App {
+   text-align: center;
+}
+.main{
+  border: 1px solid red;
+  background-color: gray;
+  height: 80px;
+  width: 98%;
+  padding-left: 100px;
+  padding-top: 20px;
+  
+}
+  
+.parent{
+  border: 1px solid blue;
+  background-color: black;
+  height: 50px;
+  width:90%;
+  color:aliceblue;
+  display: flex;
+  
+}
+ 
+.parent>div{
+ border: 1px solid yellow;
+ width: 100%;
+}
+
+#first{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+#second{
+  width:10%;
+  padding-top: 1%;
+}
+button{
+  border-radius: 12px;
+  font-size: 20px;
+  /* background-color: rgb(86, 86, 122); */
+  background-color: rgb(123, 123, 148);
+
+}
+#mor{
+  font-size: 17px;
+  font-weight: bold;
+}
