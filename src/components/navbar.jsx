@@ -8,6 +8,7 @@ const Nav = () =>{
 <a href='#'>Service</a>
 <a href='#'>Project</a>
 <a href='#'>About</a>
+
   </div>
 
   <div id='second'>
