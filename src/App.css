@@ -40,9 +40,18 @@ button{
   font-size: 20px;
   /* background-color: rgb(86, 86, 122); */
   background-color: rgb(123, 123, 148);
+  color:white;
 
 }
 #mor{
   font-size: 17px;
   font-weight: bold;
+  color:white;
+  padding-top: 1%;
+  text-decoration: none;
+}
+a{
+  padding-top: 1%;
+  color:white;
+  text-decoration: none;
 }
